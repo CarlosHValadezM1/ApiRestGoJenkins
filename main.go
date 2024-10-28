@@ -36,7 +36,7 @@ func main() {
 	router.HandleFunc("/proyectos/{numero_control}", DeleteProyecto).Methods("DELETE")
 
 	fmt.Println("Servidor corriendo en el puerto 8080...")
-	log.Fatal(http.ListenAndServe(":8080", router))
+	log.Fatal(http.ListenAndServe(":5050", router))
 }
 
 // Obtener todos los proyectos
