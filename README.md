@@ -52,6 +52,11 @@ A partir de aqui podremos hacer llamadas a nuestra API y nos mostrara los siguie
 
 ![image](https://github.com/user-attachments/assets/cef2a47e-2dfd-44e2-925d-76f481266ce0)
 
+## Participantes en la creacion del repositorio
+
+- Carlos HUmberto Valadez Molina
+- Mauricion de Jesus Cardona Ramirez
+- Chistian Ernesto Silva Pedraza
 
 
 
