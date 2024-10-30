@@ -8,5 +8,5 @@ echo "RUN go build" >> Dockerfile
 echo "EXPOSE 5050" >> Dockerfile
 echo 'CMD ["/app/RestApiPract1"]' >> Dockerfile
 docker build . -t dockerapigo
-docker run -it -p 5050:5050 dockerapigo
+docker run -d -p 5050:5050 dockerapigo
 docker ps -a
