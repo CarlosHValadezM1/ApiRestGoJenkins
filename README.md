@@ -13,7 +13,7 @@ Se accede desde el navegador a la direccion localhost:8080, seguido se crea un n
 
 ![image](https://github.com/user-attachments/assets/0cbcb98d-192c-4977-aafe-0ad929f9fc14)
 
-## Archivo .sh
+### Archivo .sh
 
 ![image](https://github.com/user-attachments/assets/f9ac8a98-caa5-4523-bebc-6c48ffaebe89)
 
