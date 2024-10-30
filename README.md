@@ -17,11 +17,11 @@ Se accede desde el navegador a la direccion localhost:8080, seguido se crea un n
 
 ![image](https://github.com/user-attachments/assets/f9ac8a98-caa5-4523-bebc-6c48ffaebe89)
 
-Una vez hecho lo anterio se ejecuta el trabajo
+Una vez hecho lo anterior se ejecuta el trabajo
 
 ![image](https://github.com/user-attachments/assets/f8e4d841-d972-4c50-9735-50425dab6601)
 
-Una vez ejecutado se creara un nuevo docker el cual contrendra nuestra api y se podra acceder a este desde el puerto 5050
+Al ejecutarse se creara un nuevo docker, el cual contrendra nuestra api y se podra acceder a esta desde el puerto 5050
 
 ![image](https://github.com/user-attachments/assets/5f9a3fe1-5b0e-4e71-aa20-c93e1e272637)
 
