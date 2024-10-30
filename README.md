@@ -54,8 +54,8 @@ A partir de aqui podremos hacer llamadas a nuestra API y nos mostrara los siguie
 
 ## Participantes en la creacion del repositorio
 
-- Carlos HUmberto Valadez Molina
-- Mauricion de Jesus Cardona Ramirez
+- Carlos Humberto Valadez Molina
+- Mauricio de Jesus Cardona Ramirez
 - Chistian Ernesto Silva Pedraza
 
 
